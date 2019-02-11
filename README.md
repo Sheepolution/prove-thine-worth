@@ -1,5 +1,7 @@
 # Prove Thine Worth
-The source code of my game Prove thine Worth, a game about a price .
+The source code of my game Prove thine Worth, a game about a prince escaping a dungeon.
+
+![cat-gif](http://i.imgur.com/v8SJFHl.gif)
 
 * [Play the game](https://sheepolution.itch.io/prove-thine-worth)
 * [Watch the trailer](https://www.youtube.com/watch?v=ff-PftrH9qU)
